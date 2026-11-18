@@ -1,0 +1,6 @@
+year,production_m_bags,production_kt,farmer_price_ksh_100kg,farmer_price_ksh_bag,retail_price_march_ksh_kg,retail_price_sept_ksh_kg,bought_ncpb_millers_kt,provisional
+2021,36.7,3303,3002.7,2702.4,37.4,39.7,228.4,False
+2022,34.2,3078,5301.0,4770.9,47.0,76.1,149.5,False
+2023,47.6,4284,6116.7,5505.0,79.4,71.7,185.4,False
+2024,44.8,4032,6281.2,5653.1,57.1,49.1,174.1,False
+2025,45.8,4122,7005.1,6304.6,56.8,61.8,178.0,True

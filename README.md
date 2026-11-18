@@ -41,11 +41,11 @@ The data says nothing about rainfall, soil, fertiliser or seed. It can show whic
 ## What's in the repo
 
 ```
-data/raw/            original Excel file (untouched)
+data/raw/            original Excel file
 data/processed/      cleaned CSVs
 notebooks/           the analysis
 outputs/figures/     charts
-database/            SQLite database (built by the last notebook)
+database/            SQLite database
 reports/             written report
 ```
 

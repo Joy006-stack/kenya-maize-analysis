@@ -46,7 +46,6 @@ data/processed/      cleaned CSVs
 notebooks/           the analysis
 outputs/figures/     charts
 database/            SQLite database
-reports/             written report
 ```
 
 The notebooks, in the order I'd read them:
